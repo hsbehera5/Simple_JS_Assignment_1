@@ -1,1 +1,1 @@
-# Simple_JS_Assignment_1
+# Simple_JS_Coding_1
